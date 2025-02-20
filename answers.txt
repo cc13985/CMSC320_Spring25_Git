@@ -5,3 +5,7 @@ Answer: Git allows people to efficiently manage version control of a codebase. W
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data science can be applied to healthcare, because there is a lot of data on disease outbreaks, patient diagnostics and data, and general health patterns. Data science can be used to analyze these types of data to make helpful predictions to potentially benefit medical professionals and aid them in making important, life-or-death decisions that can affect the world.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging creates a new commit combining the histories of two branches, while rebasing rewrites history by moving commits of a branch on top of another branch. 
